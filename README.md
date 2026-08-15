@@ -13,7 +13,7 @@
 
 
 
-<img width="122" height="115" alt="d59153b3-cf32-431d-8043-0114d66558fe" src="https://github.com/user-attachments/assets/81fa89cb-0ab8-4d61-8714-112cbdb2cbe3" />     <p align="center">
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6giyus4r552ztfgodj23z6pqe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a>
