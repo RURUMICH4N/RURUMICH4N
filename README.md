@@ -8,6 +8,5 @@
   </a>
 </p>
 
-<img width="122" height="115" alt="profile" src="https://github.com/user-attachments/assets/8073028a-292a-44b8-b2ae-84f455078809" />
 
 
