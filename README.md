@@ -4,5 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&color=7BAE7F&center=true&vCenter=true&width=600&duration=7000&pause=1500&lines=perhaps+some+people+are+meant+to+be;remembered,+not+kept" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&color=7BAE7F&center=true&vCenter=true&width=600&duration=7000&pause=1500&lines=perhaps+some+people+are+meant+to+be" alt="Typing SVG">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&color=7BAE7F&center=true&vCenter=true&width=600&duration=7000&pause=1500&lines=remembered,+not+kept" alt="Typing SVG">
 </p>
