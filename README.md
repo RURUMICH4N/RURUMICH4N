@@ -20,5 +20,3 @@
 
 
 
-
-<img width="350" height="350" alt="a-detailed-close-up-of-a-house-sparrow-bird-on-a-black-background-free-png" src="https://github.com/user-attachments/assets/0e3fca5e-66bc-4090-870e-814955c4eb31" />
