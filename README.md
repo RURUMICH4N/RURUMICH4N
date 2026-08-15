@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/RURUMICH4N/RURUMICH4N/blob/RURUMICH4N/Untitled46_20260815232557.png" ?raw=true 
 
 
 <img width="800" height="340" center=true alt="ezgif-4710f9cf6d5180a0 (1)" src="https://github.com/user-attachments/assets/f21e7c1e-72c8-45f0-99cc-6bb542b34515" />
