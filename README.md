@@ -22,5 +22,8 @@
 
 
 
+<div style="display: flex; align-items: center; gap: 15px;">   <img src="https://raw.githubusercontent.com/RURUMICH4N/RURUMICH4N/refs/heads/RURUMICH4N/d59153b3-cf32-431d-8043-0114d66558fe.png" width="122">  <span>listening to music & imagining myself in an edit ˚₊· ͟͟͞͞➳❥</span>
+</div>
+
 
 ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ
