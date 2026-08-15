@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Georgia&size=18&color=7BAE7F&center=true&vCenter=true&width=500&lines=maybe+recognition+comes+before+remembrance)](https://git.io/typing-svg)
+             [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Georgia&size=18&color=7BAE7F&center=true&vCenter=true&width=600&lines=perhaps+some+people+are+meant+to+be+remembered,+not+kept)](https://git.io/typing-svg) 
