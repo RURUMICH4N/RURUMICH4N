@@ -1,1 +1,1 @@
-<i><span style="color:#7BAE7F;">maybe recognition comes before remembrance</span></i>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Georgia&size=18&color=7BAE7F&center=true&vCenter=true&width=500&lines=maybe+recognition+comes+before+remembrance)](https://git.io/typing-svg)
