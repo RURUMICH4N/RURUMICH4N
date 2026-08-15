@@ -7,3 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=14&color=7BAE7F&center=false&vCenter=false&width=600&duration=7000&pause=1500&lines=perhaps+some+people+are+meant+to+be+remembered,+not+kept" alt="Typing SVG">
   </a>
 </p>
+
+
+
+<img width="423" height="445" alt="b162b795-db37-43f0-8bd9-39eed335a1ae" src="https://github.com/user-attachments/assets/3c512da0-ce88-4d25-9d56-5459b3a792e0" />
