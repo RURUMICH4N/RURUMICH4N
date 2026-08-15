@@ -10,4 +10,4 @@
 
 
 
-<img width="423" height="445" alt="b162b795-db37-43f0-8bd9-39eed335a1ae" src="https://github.com/user-attachments/assets/3c512da0-ce88-4d25-9d56-5459b3a792e0" />
+![alt]blob:https://web.telegram.org/b162b795-db37-43f0-8bd9-39eed335a1ae.png
