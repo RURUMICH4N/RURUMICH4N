@@ -4,6 +4,10 @@
 
 
 
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&color=7BAE7F&center=true&vCenter=true&width=600&duration=7000&pause=1500&lines=perhaps+some+people+are+meant+to+be+remembered,+not+kept" alt="Typing SVG">
+  </a>
+</p>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Georgia&size=18&color=7BAE7F&center=true&vCenter=true&width=600&duration=7000&pause=1500&lines=perhaps+some+people+are+meant+to+be+remembered,+not+kept)](https://git.io/typing-svg)
