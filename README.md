@@ -16,3 +16,9 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6giyus4r552ztfgodj23z6pqe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
+
+
+
+
+
+<img width="350" height="350" alt="a-detailed-close-up-of-a-house-sparrow-bird-on-a-black-background-free-png" src="https://github.com/user-attachments/assets/0e3fca5e-66bc-4090-870e-814955c4eb31" />
