@@ -22,3 +22,8 @@
 
 
 ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ
+ <div style="display: flex; align-items: center; gap: 15px; margin-left: 100px;"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6giyus4r552ztfgodj23z6pqe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>  </span>
+</div>
+
