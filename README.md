@@ -1,4 +1,8 @@
-𓆉⋆｡˚⋆❀ 🐚🫧𓇼 ˖°
+<p align="center">
+  <span style="font-size: 40px;">
+    𓆉⋆｡˚⋆❀ 🐚🫧𓇼 ˖°
+  </span>
+</p>
 
 
 
